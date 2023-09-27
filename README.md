@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Gustavo Marulanda Cruz</h1>
-<h3 align="center">I am a Full Stack development with a focus on web technologies. I am knowledgeable in JS, HTML and CSS, and I am also familiar with modern tools such as React, Redux, Node, SQL, Git and GitHub. I'm currently also studying systems engineering at UNAD University. All this knowledge has prepared me as a good developer who can face new projects that arise along the way..</h3>
+<h3 align="center">I am a Full Stack developer with a focus on web technologies. I am knowledgeable in JS, HTML and CSS, and I am also familiar with modern tools such as React, Redux, Node, SQL, Git and GitHub. I'm currently also studying systems engineering at UNAD University. All this knowledge has prepared me as a good developer who can face new projects that arise along the way..</h3>
 
 
 - 🔭 Marketplace Proyect [Final Project Boho](https://pf-ptb-grupo-06.vercel.app/)
